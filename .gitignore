@@ -1,0 +1,9 @@
+backend/.env
+backend/.env.local
+fontend/kushop/.env.local
+fontend/kushop/.env.*.local
+**/node_modules/
+fontend/kushop/dist/
+backend-mysql-deploy.zip
+backend/img_mem/*.jpg
+!backend/img_mem/default.jpg

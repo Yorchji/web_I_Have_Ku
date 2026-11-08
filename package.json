@@ -1,0 +1,11 @@
+{
+  "name": "web-ecommerce-base-project",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix fontend/kushop run dev",
+    "web": "npm --prefix fontend/kushop run web",
+    "build": "npm --prefix fontend/kushop run build",
+    "preview": "npm --prefix fontend/kushop run preview",
+    "dev:backend": "npm --prefix backend start"
+  }
+}
